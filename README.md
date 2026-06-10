@@ -21,11 +21,5 @@
 </ul>
 
 <p align="center">
-  <sub><code>contact →</code> <a href="mailto:oximeracer@gmail.com">oximeracer@gmail.com</a></sub>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,python" />
+  <sub><code>contact →</code> <a href="mailto:maksym.kazemyr@visco.no">maksym.kazemyr@visco.no</a></sub>
 </p>
