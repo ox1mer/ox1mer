@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f0/3e/b3/f03eb39886bbc8b835a72815b473f663.gif">
+  <img src="https://i.pinimg.com/originals/7d/72/6b/7d726b3bf5f93d154c16057a02a35380.gif">
 </p>
 
-<h1 align="center">♡𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 𝔭𝔯𝔬𝔣𝔦𝔩𝔢♡</h1>
+<h1 align="center">♡𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖜𝖔𝖗𝖐 𝖕𝖗𝖔𝖋𝖎𝖑𝖊♡</h1>
 
 <h2 align="left"><i>𝔄𝔟𝔬𝔲𝔱 𝔪𝔢:</i></h2>
 
 <img 
-  src="https://i.pinimg.com/originals/1f/cc/9d/1fcc9d6b7fe9149e28b89ec43f15a098.gif"
+  src="https://i.pinimg.com/originals/c5/7d/80/c57d80f2263457c73229f881103a0afd.gif"
   width="235"
   align="right"
 />
 
 <ul>
-  <li><b>Name:</b> Maksym</li>
+  <li><b>Name:</b> Kazemyr Maksym</li>
   <li><b>Age:</b> 18</li>
   <li><b>Country:</b> Ukraine 🇺🇦</li>
   <li><b>Focus:</b> C++ / 3D Engine Development</li>
